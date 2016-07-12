@@ -4,8 +4,15 @@
         <description><![CDATA[Arkson Official]]></description>
         <link>https://thegrid.ai/arkson-official/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 02:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 02:49:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/arkson-official/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Storm - EP, by Arkson]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4db409e-6b59-4e67-b8bd-00840b57a253.jpg">]]></description>
+            <link>https://arkson.bandcamp.com/</link>
+            <guid isPermaLink="false">1ea53373-78e9-46a0-bedc-0755bdd5b30e</guid>
+            <pubDate>Tue, 12 Jul 2016 02:49:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Arkson - Adventure of a Lifetime (Coldplay)]]></title>
             <description><![CDATA[<article><h1>Arkson - Adventure of a Lifetime (Coldplay)</h1><p>A week ago today they were on top of the world, playing Super Bowl 50. Today we're on top the world, playing their hit. This is our live cover of Adventure of a Lifetime by Coldplay, from their new album, "A Head Full of Dreams". Enjoy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ce7f05b92f28db804dae6a4c29db0b16/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2Fs4brkq8e0RM%2Fmaxresdefault.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://thepermanentrainpress.com/post/134429749504/arkson-releases-ep-the-storm</link>
             <guid isPermaLink="false">f07e8771-c3ab-41ef-882e-07be6edfaf62</guid>
             <pubDate>Tue, 12 Jul 2016 02:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Storm - EP, by Arkson]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4db409e-6b59-4e67-b8bd-00840b57a253.jpg">]]></description>
-            <link>https://arkson.bandcamp.com/</link>
-            <guid isPermaLink="false">1ea53373-78e9-46a0-bedc-0755bdd5b30e</guid>
-            <pubDate>Tue, 12 Jul 2016 02:19:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
