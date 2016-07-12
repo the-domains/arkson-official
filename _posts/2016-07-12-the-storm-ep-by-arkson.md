@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-12T21:29:37.489Z'
+datePublished: '2016-07-12T21:29:40.677Z'
 sourcePath: _posts/2016-07-12-the-storm-ep-by-arkson.md
 isBasedOnUrl: 'https://arkson.bandcamp.com/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - download
 related: []
 author: []
-dateModified: '2016-07-12T21:29:36.525Z'
+dateModified: '2016-07-12T21:29:40.399Z'
 title: ''
 app_links: []
 publisher:
@@ -25,7 +25,7 @@ publisher:
   domain: arkson.bandcamp.com
 description: ''
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
