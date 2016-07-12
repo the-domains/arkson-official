@@ -1,18 +1,18 @@
-typography_spectrum: 0.016112297540530562
+typography_spectrum: 0.69648771523498
 content_rating:
   adult: false
 color:
-  brandStrength: 0.5083793406374753
-  lightness: 0.0430945111438632
-  saturation: 0.06735582579858601
-  rhythmicContrast: 0.37374490196816623
+  brandStrength: 0.044535288121551275
+  lightness: 0.012454218463972211
+  saturation: 0.5068916603922844
+  rhythmicContrast: 0.0807275001425296
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.9488197509199381
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+layout_spectrum: 0.08817873196676373
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7283de5f-032c-41be-b22f-6204231fd5c4.png
 name: Arkson Official
