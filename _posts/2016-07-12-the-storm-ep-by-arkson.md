@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-12T02:19:54.164Z'
+datePublished: '2016-07-12T02:49:10.260Z'
 sourcePath: _posts/2016-07-12-the-storm-ep-by-arkson.md
 isBasedOnUrl: 'https://arkson.bandcamp.com/'
 keywords:
@@ -15,22 +15,17 @@ keywords:
   - download
 related: []
 author: []
-dateModified: '2016-07-12T02:19:47.854Z'
-title: 'The Storm - EP, by Arkson'
+dateModified: '2016-07-12T02:49:10.026Z'
+title: ''
 app_links: []
 publisher:
   url: 'http://bandcamp.com'
   name: BandCamp
   favicon: 'https://f4.bcbits.com/img/a2474029733_3.jpg'
   domain: arkson.bandcamp.com
-description: >-
-  Arkson Emerging in 2015 with the release of two EPs, Arkson is an
-  alternative-rock band out of Toronto, Canada. The Storm - EP, released 30
-  November 2015 1. The River 2. Patiently 3. Rooftops 4. The Storm (Soundscape)
-  Arkson's second EP, The Storm takes a new, fresh approach to it's music, all
-  while maintaining the best elements of the past.
+description: ''
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
