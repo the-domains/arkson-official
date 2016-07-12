@@ -65,10 +65,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/s4brkq8e0RM'
 title: Arkson - Adventure of a Lifetime (Coldplay)
-datePublished: '2016-07-12T02:30:32.692Z'
-dateModified: '2016-07-12T02:30:10.511Z'
-starred: false
+datePublished: '2016-07-12T02:49:05.429Z'
+dateModified: '2016-07-12T02:49:05.043Z'
 sourcePath: _posts/2016-07-12-arkson-adventure-of-a-lifetime-coldplay.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
