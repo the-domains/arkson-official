@@ -16,4 +16,7 @@ layout_spectrum: 0.08817873196676373
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/be441b19-2854-4165-b16f-7ab9cc22fb0b.png
 name: Arkson Official
-navigation: []
+navigation:
+  - name: Bio
+    id: 26689a15-35de-4266-8d12-c0ed7e9e2394
+    type: content
