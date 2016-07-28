@@ -20,3 +20,6 @@ navigation:
   - name: About
     id: 26689a15-35de-4266-8d12-c0ed7e9e2394
     type: content
+  - name: Listen/Buy
+    id: 1ea53373-78e9-46a0-bedc-0755bdd5b30e
+    type: content
