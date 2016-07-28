@@ -1,7 +1,6 @@
 ---
-datePublished: '2016-07-12T21:29:40.677Z'
+datePublished: '2016-07-28T21:00:40.653Z'
 sourcePath: _posts/2016-07-12-the-storm-ep-by-arkson.md
-isBasedOnUrl: 'https://arkson.bandcamp.com/'
 keywords:
   - arkson
   - toronto
@@ -15,20 +14,16 @@ keywords:
   - download
 related: []
 author: []
-dateModified: '2016-07-12T21:29:40.399Z'
+dateModified: '2016-07-28T21:00:40.271Z'
 title: ''
 app_links: []
-publisher:
-  url: 'http://bandcamp.com'
-  name: BandCamp
-  favicon: 'https://f4.bcbits.com/img/a2474029733_3.jpg'
-  domain: arkson.bandcamp.com
+publisher: {}
 description: ''
 inLanguage: en
+hasPage: true
+via: {}
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
+url: the-storm-ep-by-arkson/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
