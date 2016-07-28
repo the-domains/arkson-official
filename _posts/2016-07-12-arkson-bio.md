@@ -5,17 +5,16 @@ description: >-
   of songs Park had been working on. With the expertise and mentorship of Steve
   Worrall, producer and former touring musician with Tom Cochrane, Park began
   recording.
-dateModified: '2016-07-12T20:59:03.370Z'
-datePublished: '2016-07-12T20:59:16.512Z'
+dateModified: '2016-07-28T01:44:33.859Z'
+datePublished: '2016-07-28T01:44:34.248Z'
 title: Arkson - Bio
 author: []
-starred: false
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/898c9fe1-e922-4b87-beda-9f3fe18c568d.jpg
 sourcePath: _posts/2016-07-12-arkson-bio.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+publisher: {}
+via: {}
+starred: false
+url: arkson-bio/index.html
 _type: MediaObject
 
 ---
