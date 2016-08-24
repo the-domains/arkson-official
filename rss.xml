@@ -4,7 +4,7 @@
         <description><![CDATA[Arkson Official]]></description>
         <link>http://arkson.ca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 22:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 22:50:44 GMT</lastBuildDate>
         <atom:link href="http://arkson.ca/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Arkson - Adventure of a Lifetime (Coldplay)]]></title>
@@ -12,6 +12,13 @@
             <link>https://youtu.be/s4brkq8e0RM</link>
             <guid isPermaLink="false">05d5c512-1a68-443e-aea2-7099e6266184</guid>
             <pubDate>Tue, 12 Jul 2016 21:29:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Arkson Releases New EP"]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa5d7407-4aa6-4170-8833-59cadbb0f613.jpg">]]></description>
+            <link>http://thepermanentrainpress.com/post/134429749504/arkson-releases-ep-the-storm</link>
+            <guid isPermaLink="false">1470f1c2-4f1e-48ea-958b-51e8e14664c1</guid>
+            <pubDate>Wed, 24 Aug 2016 22:49:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
