@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-07-28T21:45:38.220Z'
+datePublished: '2016-08-24T01:35:08.850Z'
 sourcePath: _posts/2016-07-12-the-storm-ep-by-arkson.md
+hasPage: true
 keywords:
   - arkson
   - toronto
@@ -14,14 +15,13 @@ keywords:
   - download
 related: []
 author: []
-dateModified: '2016-07-28T21:45:37.722Z'
+via: {}
+dateModified: '2016-08-24T01:35:08.531Z'
 title: ''
 app_links: []
 publisher: {}
 description: ''
 inLanguage: en
-hasPage: true
-via: {}
 starred: true
 url: the-storm-ep-by-arkson/index.html
 _context: 'http://schema.org'
