@@ -1,5 +1,6 @@
-layout_spectrum: 0.7231386506464332
 typography_spectrum: 0.3433222745079547
+content_rating:
+  adult: false
 color:
   brandStrength: 0.5720170408021659
   lightness: 0.4155447368975729
@@ -11,15 +12,11 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-content_rating:
-  adult: false
+layout_spectrum: 0.7231386506464332
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/be441b19-2854-4165-b16f-7ab9cc22fb0b.png
 name: Arkson Official
 navigation:
-  - name: Bio
-    id: 26689a15-35de-4266-8d12-c0ed7e9e2394
-    type: content
   - name: Listen
     id: 1ea53373-78e9-46a0-bedc-0755bdd5b30e
     type: content
