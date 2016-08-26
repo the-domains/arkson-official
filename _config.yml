@@ -5,25 +5,25 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/be441b19-2854-4165-b16f-7ab9cc22fb0b.png
 color:
-  saturation: 0.4462366
+  saturation: 0.2670251
   brandStrength: 0.4623656
-  lightness: 0.4155447
+  lightness: 0.4569893
   brandColors:
     - '#AFB8BF'
     - '#1A1E21'
     - '#D7DEE4'
     - '#545861'
     - '#777E86'
-  rhythmicContrast: 0.6070293
+  rhythmicContrast: 0.5286738
 typography_spectrum: 0.2867384
 navigation:
   - name: Bio
@@ -32,6 +32,6 @@ navigation:
   - name: Listen
     id: 1ea53373-78e9-46a0-bedc-0755bdd5b30e
     type: content
-layout_spectrum: 0.5035842
 content_rating:
   adult: false
+layout_spectrum: 0.5035842
