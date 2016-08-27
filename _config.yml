@@ -1,37 +1,25 @@
-name: Arkson Official
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.3433222745079547
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.5720170408021659
+  lightness: 0.4155447368975729
+  saturation: 0.3904956732876599
+  rhythmicContrast: 0.6070292752701789
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.7231386506464332
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/be441b19-2854-4165-b16f-7ab9cc22fb0b.png
-color:
-  saturation: 0.2670251
-  brandStrength: 0.4623656
-  lightness: 0.4569893
-  brandColors:
-    - '#AFB8BF'
-    - '#1A1E21'
-    - '#D7DEE4'
-    - '#545861'
-    - '#777E86'
-  rhythmicContrast: 0.5286738
-typography_spectrum: 0.2867384
+name: Arkson Official
 navigation:
   - name: Bio
     id: 26689a15-35de-4266-8d12-c0ed7e9e2394
     type: content
-  - name: Listen
+  - name: The Storm EP
     id: 1ea53373-78e9-46a0-bedc-0755bdd5b30e
     type: content
-content_rating:
-  adult: false
-layout_spectrum: 0.5035842
